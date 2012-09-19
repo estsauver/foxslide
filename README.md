@@ -1,5 +1,7 @@
 # foxslide #
 
+## THIS IS A FORK OF ADRIAN ARTILES ORIGINAL FOXSLIDE
+
 Live theme preview available at [AdrianArtiles.com](http://www.AdrianArtiles.com).
 
 This is a theme built for [Octopress](http://Octopress.org) that is a work in progress with inspirations from all over the web. Built on top of [bootstrap](http://twitter.github.com/bootstrap/) and [html5 boilerplate](http://html5boilerplate.com/), and has SEO considerations along with instagram and twitter widgets out of the box.
